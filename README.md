@@ -1,10 +1,17 @@
+NOTES:
+ 1. Frontend 
+      [HTML .pdf](https://github.com/user-attachments/files/18307770/HTML.pdf)
+      [CSS.pdf](https://github.com/user-attachments/files/18307772/CSS.pdf)
+      [Uploading Html&Css .pdf…]()
+      [Bootstrap.pdf](https://github.com/user-attachments/files/18307775/Bootstrap.pdf)
+      [Javascript.pdf](https://github.com/user-attachments/files/18307776/Javascript.pdf)
 
 
 
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Programming:
-Daily Learning Status update:
+    Daily Learning Status update:
 
 Day - 1: Taking input from user Dynamic & Add three number & celsius to fahrenheit  
 Day - 2: if else condition, divisible by 2 3 5 10 , & || operator , ends with 0  7  73 35 , eliminate the last digit /10
