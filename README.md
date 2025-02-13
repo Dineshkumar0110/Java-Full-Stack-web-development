@@ -1,5 +1,12 @@
 <h1>JAVA FULL STACK WEB DEVELOPMENT</h1>
 
+
+<h3>Java Programming Playlist</h3>
+
+| S.No | Topic             | Link  |
+|------|------------------|-------------------------------------------|
+| 1    | Java Programming Playlist | [Watch Here](https://youtube.com/playlist?list=PLFTNjEnvvfYRRQsiMcNoDqdiiLTIHwtRg&si=CCWW89gMUzeK6SaO) |
+
 <h3>JDBC</h3> 
 
 | S.No | Topic                               | Link                                      |
