@@ -1,5 +1,19 @@
 <h1>JAVA FULL STACK WEB DEVELOPMENT</h1>
 
+<h3>JDBC</h3> 
+
+| S.No | Topic                               | Link                                      |
+|------|-------------------------------------|-------------------------------------------|
+| 1    | Introduction to JDBC               | https://youtu.be/rOM_kuJ0214              |
+| 2    | Create Statement / Select Query    | https://youtu.be/OtrTs6OTL64              |
+| 3    | Insert, Update, Delete             | https://youtu.be/-7v9ECUndjo              |
+| 4    | Prepared Statement                 | https://youtu.be/aRRGhlIAlI4              |
+| 5    | Batch Processing                   | https://youtu.be/3eJ1hZhQuGc              |
+| 6    | CRUD / ACID Commit                 | https://youtu.be/stQ6az40aCY              |
+| 7    | Stored Procedures                  | https://youtu.be/N3z6E-idkME              |
+| 8    | BLOB                               | https://youtu.be/icGgBXaC2Sg              |
+| 9    | Revision of JDBC                   | https://youtu.be/b_uA6_EtD2I              |
+
 
 <h3>J2EE Concepts</h3>
 
