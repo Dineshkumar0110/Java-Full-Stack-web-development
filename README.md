@@ -5,7 +5,7 @@
 
 | S.No | Topic             | Link  |
 |------|------------------|-------------------------------------------|
-| 1    | Java Programming Playlist | [Watch Here](https://youtube.com/playlist?list=PLFTNjEnvvfYRRQsiMcNoDqdiiLTIHwtRg&si=CCWW89gMUzeK6SaO) |
+| 1    | Java Programming | [Watch Here](https://youtube.com/playlist?list=PLFTNjEnvvfYRRQsiMcNoDqdiiLTIHwtRg&si=CCWW89gMUzeK6SaO) |
 
 <h3>JDBC</h3> 
 
